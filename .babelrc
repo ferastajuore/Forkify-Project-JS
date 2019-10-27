@@ -1,0 +1,11 @@
+{
+    "presets": [
+        ["env", {
+            "targets": {
+                "brower": [
+                    "last 5 versions"
+                ]
+            }
+        }]
+    ]
+}
